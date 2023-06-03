@@ -14,10 +14,10 @@ classification_setup = setup(data=iris_df, target='species', session_id=42)
 # Compare different models
 compare_models()
 
-# Create the best model (based on the comparison)
+# Use Random Forrest
 best_model = create_model('rf')
 
-# Tune the best model
+# Tune the model
 tuned_best_model = tune_model(best_model)
 
 # Evaluate the tuned model
