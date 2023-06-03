@@ -31,3 +31,11 @@ To run do:<br>
 `python IrisPyCaretExample.py` for the cli version
 <br>or
 open the notebook named `IrisPyCaretNotebook.ipynb` 
+
+You can also run it in Google Colab:
+
+Go to <https://colab.research.google.com/>, pick *GITHUB* source and put https://github.com/vluz/IrisPyCaretTest/IrisPyCaretNotebook.ipynb
+<br>
+Click on **NEW PYTHON 3 NOTEBOOK** 
+
+Direct Link: https://colab.research.google.com/github/vluz/IrisPyCaretTest/blob/main/IrisPyCaretNotebook.ipynb
