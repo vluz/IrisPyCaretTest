@@ -1,5 +1,7 @@
-# IrisPyCaretTest
+# Iris PyCaret Test
 ### PyCaret example using the Iris dataset
+
+<hr>
 
 PyCaret is a powerful Python library for machine learning that automates the process of preparing data and comparing different models. 
 <br>
