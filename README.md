@@ -10,7 +10,7 @@ Here's an example using PyCaret to classify the famous Iris dataset.
 
 This example loads the Iris dataset, sets up the PyCaret environment, compares different classification models, 
 <br>
-selects the best model (Random Forest in this case), tunes its hyperparameters, evaluates the model, 
+we select Random Forest from the options, tune its hyperparameters, evaluates the model, 
 <br>
 makes predictions, finalizes the model, and saves it to a file.
 
